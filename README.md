@@ -8,7 +8,7 @@ I am a 2nd year undergraduate studying Physics with Data Science. I have particu
 ### The Starling Programming Language
 [View Project](https://github.com/aurorusidk/starling)
 - Implemented a strongly-typed, high-level programming language based in python
-- Investigated and implemented complied and interpreted execution methods
+- Investigated and implemented compiled and interpreted execution methods
 
 ### Signal Whitening and Spectral Analysis
 [View Project](https://github.com/MultipleNewts/ligo-merger-analysis)
